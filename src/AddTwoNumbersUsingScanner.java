@@ -9,11 +9,11 @@ public class AddTwoNumbersUsingScanner {
 
         Scanner scanner = new Scanner(System.in);
 
-        System.out.println("Enter first number ");
+        System.out.print("Enter first number = ");
 
         a = scanner.nextInt();
 
-        System.out.println("Enter second number ");
+        System.out.print("Enter second number = ");
 
         b = scanner.nextInt();
 
