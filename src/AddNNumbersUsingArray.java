@@ -22,7 +22,7 @@ public class AddNNumbersUsingArray {
 
             array[i] = temp;
 
-            sum += temp; 
+            sum += temp; //Same as sum = sum + temp
         }
 
         scanner.close();
