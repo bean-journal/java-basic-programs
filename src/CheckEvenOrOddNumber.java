@@ -14,10 +14,10 @@ public class CheckEvenOrOddNumber {
         scanner.close();
 
         if(a % 2 == 0){
-            System.out.println(a+" is an EVEN number.");
+            System.out.println("\n"+a+" is an EVEN number.");
         }
         else{
-            System.out.println(a+" is a ODD number.");
+            System.out.println("\n"+a+" is a ODD number.");
         }
     }
 }
